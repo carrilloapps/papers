@@ -1,15 +1,21 @@
 # Papers
+[Read in Spanish](https://github.com/carrilloapps/papers/blob/main/systems/escalamiento-intrinseco.md)
 
 This repository contains notes, studies, and scientific discoveries in the field of software development and systems engineering. I explore topics that I'm passionate about and share my learnings to contribute to the community.
+
+## Lenguages
+
+* [English](https://github.com/carrilloapps/papers/blob/main/README.md)
+* [Spanish](https://github.com/carrilloapps/papers/blob/main/README_ES.md)
 
 ## Contents
 
 *   **Systems**:*
-    *   Intrinsic Scaling: [sistemas/escalamiento-intrinseco.md](https://github.com/carrilloapps/papers/blob/main/sistemas/escalamiento-intrinseco.md)
+    *   Intrinsic Scaling: [ES](https://github.com/carrilloapps/papers/blob/main/systems/escalamiento-intrinseco.md) | [EN](https://github.com/carrilloapps/papers/blob/main/systems/intrinsic-scaling.md.md)
 
 ## Who am I?
 
-I'm a software developer and systems engineer passionate about technology and science. I love learning new things and sharing them with others.
+I'm a software developer and systems engineer passionate about technology and science. I love learning new things and sharing them with others... [Less more](https://carrillo.app)
 
 ## Why this repository?
 
